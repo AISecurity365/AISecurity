@@ -1,6 +1,6 @@
 # AISecurity
 
-# Hi there, I'm Systems boy / AI SECURITY 👋
+# Hi there, I'm AI Security 👋
 
 I'm a Systems & Cybersecurity Administrator specialized in **Wazuh (SIEM/XDR)**, infrastructure security, and practical **Enterprise AI automation**. 
 
